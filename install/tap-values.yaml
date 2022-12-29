@@ -96,7 +96,7 @@ tap_gui:
     catalog:
       locations:
         - type: url
-          target: https://github.com/tanzukorea/TAP-HOL/blob/main/catalog/catalog-info.yaml
+          target: https://github.com/shimirooinfo/TAP-HOL/blob/main/catalog/catalog-info.yaml
     backend:
       baseUrl: http://tap-gui.tanzukr.com
       cors:
